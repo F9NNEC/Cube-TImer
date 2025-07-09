@@ -1,4 +1,4 @@
-# Z-Buster
+# Cube Timer
 
 A simple Cube Timer using JavaScript
 
